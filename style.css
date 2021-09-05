@@ -1,0 +1,25 @@
+* {
+    background-color: rgb(0, 0, 0);
+}
+header {
+    text-align: center;
+    color: gold;
+}
+
+.nav {
+    display: flex;
+    padding: 50px;
+    margin-left: 25px;
+    
+    color:chartreuse;
+}
+
+ul{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: auto;
+}
+footer{
+    text-align: center;
+    color: rgb(0, 211, 46);  
+}
